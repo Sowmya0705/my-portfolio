@@ -184,7 +184,8 @@ section {
 }
 
 .hero-image img {
-    width: 100%;
+    width: 50%;
+    hight="50%" 
     max-width: 400px;
     border-radius: 20px;
     box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
