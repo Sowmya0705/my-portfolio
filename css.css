@@ -1,12 +1,12 @@
 /* Base Styles */
 :root {
-    --primary-color: #2a9d8f;
-    --primary-dark: #000000;
-    --secondary-color: #000000;
-    --dark-color: #000000;
-    --light-color: #14213d;
-    --gray-color: #64748b;
-    --light-gray: #e2e8f0;
+    --primary-color: #FF6B00; /* Vibrant orange */
+    --primary-dark: #E05D00;
+    --secondary-color: #00000;
+    --dark-color: #121212;
+    --light-color: #1E1E1E;
+    --gray-color: #F5F5F5;
+    --light-gray: #333333;
     --transition: all 0.3s ease;
 }
 
